@@ -130,6 +130,9 @@ Hola, mundo!
 - Input incorrecto 2 [node index.js input_incorrecto_2.txt 2]
   https://postimg.cc/Jym76dhY
 
+
 👤 Autor
+
 Agustín Arselli
+
 GitHub: @agusar1801
