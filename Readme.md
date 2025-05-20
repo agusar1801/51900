@@ -7,14 +7,23 @@ Este proyecto implementa un analizador para una **gramática reducida de ANSI C*
 ## 📂 Estructura del Proyecto
 
 -MiniC.g4 # Gramática ANTLR  (definición del lenguaje)
+
 -MiniCLexer.js # Lexer generado por ANTLR
+
 -MiniCParser.js # Parser generado por ANTLR
+
 -index.js # Script principal: analiza e interpreta
+
 -input_correcto_1.txt # Ejemplos de entrada (válidos)
+
 -input_incorrecto_1.txt # Ejemplos de entrada (inválidos)
+
 -package.json # archivo de dependencias de node
+
 -README.md # Este archivo
+
 -antlr-4.13.1-complete.jar # compilador de gramáticas de ANTLR4
+
 
 ---
 
