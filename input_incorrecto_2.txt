@@ -1,0 +1,5 @@
+opcion(x) {
+case 1:
+  printf("Esto no tiene switch.");
+  break;
+}

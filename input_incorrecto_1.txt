@@ -1,0 +1,10 @@
+switch(x) {
+case 1:
+  printf("Primer caso");
+case 2
+  printf("Segundo caso");
+  break;
+default:
+  printf("Caso por defecto");
+  break;
+}
